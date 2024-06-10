@@ -4,7 +4,7 @@ Hi 👋 My name is Ahtesham Ali
 Data Scientist / ML Engineer
 ----------------------------
 
-Hey, I am pursuing Machine Learning and Data Sciences,i enjoy solving Real\_World problems with technology. I grew up in Pakistan and Completed my Software Engineering. Financial Market is something that always intrigues me.
+Hey, I am Machine Learning and Data Sciences Professional,i enjoy solving Real_World problems with technology. I grew up in Pakistan and Completed my Software Engineering. Financial Market is something that always intrigues me.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ahteshamali3222@gmail.com](mailto:ahteshamali3222@gmail.com)
